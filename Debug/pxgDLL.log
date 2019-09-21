@@ -1,0 +1,6 @@
+﻿E:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: Spectre mitigation is enabled but Spectre mitigated libraries are not found.  Verify that the Visual Studio Workload includes the Spectre mitigated libraries.  See https://aka.ms/Ofhn4c for more information.
+  dllmain.cpp
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  pxgDLL.vcxproj -> E:\Users\Victor\Documents\Visual Studio 2015\Projects\Teste\pxgDLL\Debug\pxgDLL.dll
